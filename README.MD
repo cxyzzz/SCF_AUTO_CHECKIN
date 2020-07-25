@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-1. 下载仓库中zip压缩包，运行环境选 python 3.6 空白模板，函数入口改为 `index.main` 上传到压缩包到 SCF 云函数
+1. 下载仓库中 [zip 压缩包](https://github.com/cxyzzz/SCF_AUTO_CHECKIN/raw/master/auto_checkin.zip)，运行环境选 python 3.6 空白模板，函数入口改为 `index.main` 上传到压缩包到 SCF 云函数
 2. 配置环境变量
 
 ``` json
